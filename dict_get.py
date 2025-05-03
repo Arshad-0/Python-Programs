@@ -1,0 +1,9 @@
+dict={
+    "name":"rohan",
+    "age":21,
+    "Education":"Bsc(IT)",
+    "Rank":3,
+    "city":"junnar"
+}
+print(dict.get("dict"))
+print(dict["dict"])

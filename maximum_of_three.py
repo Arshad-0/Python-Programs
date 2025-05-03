@@ -1,0 +1,8 @@
+a=int(input("enter a first number :"))
+b=int(input("enter a second number :"))
+c=int(input("enter a third number :"))
+print(a)
+print(b)
+print(c)
+d=max(a,b,c)
+print(f"the max value of {a} ,{b} ,{c} is {d}")
